@@ -88,3 +88,4 @@
 [taoshihan1991/go-fly](https://github.com/taoshihan1991/go-fly)|开源客服系统GO语言开发GO-FLY,免费客服系统/open source live customer chat by golang|1.0k|
 [go-spring/go-spring](https://github.com/go-spring/go-spring)|基于 IoC 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC for Go ) 🚀 |987|
 [royalrick/weapp](https://github.com/royalrick/weapp)|微信小程序服务端 SDK (for Golang)|973|
+[flipped-aurora/gf-vue-admin](https://github.com/flipped-aurora/gf-vue-admin)|基于goframe+vite+vue3搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~|409|

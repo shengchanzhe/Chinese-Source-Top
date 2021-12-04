@@ -41,6 +41,7 @@
 [hightman/xunsearch](https://github.com/hightman/xunsearch)|免费开源的中文搜索引擎，采用 C/C++ 编写 (基于 xapian 和 scws)，提供 PHP 的开发接口和丰富文档|1.5k|
 [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)|基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!|1.3k|
 [SegmentFault/HyperDown](https://github.com/SegmentFault/HyperDown)|一个结构清晰的，易于维护的，现代的PHP Markdown解析器|1.2k|
+[SeasX/SeasLog](https://github.com/SeasX/SeasLog)|一个高效、快速、稳定的PHP日志扩展。|1.2k|
 [fukuball/jieba-php](https://github.com/fukuball/jieba-php)|"結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.|1.1k|
 [magicblack/maccms10](https://github.com/magicblack/maccms10)|苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|1.1k|
 [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper)|【新】微信服务号+微信小程序+微信支付+支付宝支付|1.1k|

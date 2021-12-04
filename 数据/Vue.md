@@ -42,6 +42,7 @@
 [myide/see](https://github.com/myide/see)|基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台|1.3k|
 [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)|基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。|1.3k|
 [newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin)|🔥 🎉 Vue 3.0 + Vite 2.0 + Vue-Router 4.0 + Element-Plus + Echarts 5.0 + Axios 开发的后台管理系统|1.2k|
+[devcloudfe/ng-devui](https://github.com/devcloudfe/ng-devui)|一个基于 DevUI Design 设计体系的 Vue3 组件库，使用最新的 Vite + Vue3 + TypeScript + JSX 搭建，包含60多个简洁、易用、灵活的组件。|1.2k|
 [loveRandy/vue-cli3.0-vueadmin](https://github.com/loveRandy/vue-cli3.0-vueadmin)|基于vue-cli3.0+vue+elementUI+vuex+axios+权限管理的后台管理系统|1.1k|
 [newbee-ltd/newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app)|🔥 🎉Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端分离版本-前端Vue项目源码|1.1k|
 [PowerDos/Mall-Vue](https://github.com/PowerDos/Mall-Vue)|基于Vue+Vuex+iView的电子商城网站|1.1k|

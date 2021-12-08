@@ -2,6 +2,7 @@
 
 |Repository|Description|Stars|
 |:-|:-|:-|
+[LongbowEnterprise/BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin)基于 RBAC 的 NetCore 后台管理框架，权限管理，前后台分离，支持多站点单点登录，兼容所有主流浏览器，内置微信、支付宝、QQ等多种登录方式，内置多种样式，可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素（按钮、表格、文本框等等）|7.7k|
 [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7.1k|
 [dotnetcore/Util](https://github.com/dotnetcore/Util)|Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。|3.9k|
 [donet5/SqlSugar](https://github.com/donet5/SqlSugar)|Best ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM|3.7k|

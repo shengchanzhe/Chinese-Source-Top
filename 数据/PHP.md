@@ -39,6 +39,7 @@
 [jianyan74/rageframe2](https://github.com/jianyan74/rageframe2)|一个基于Yii2高级框架的快速开发应用引擎|1.5k|
 [zorlan/skycaiji](https://github.com/zorlan/skycaiji)|蓝天采集器是一款免费的数据采集发布爬虫软件，采用php+mysql开发，可部署在云服务器，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统|1.5k|
 [hightman/xunsearch](https://github.com/hightman/xunsearch)|免费开源的中文搜索引擎，采用 C/C++ 编写 (基于 xapian 和 scws)，提供 PHP 的开发接口和丰富文档|1.5k|
+[dcat-phper/chemex](https://gitee.com/dcat-phper/chemex)|咖啡壶是开源、高颜值的IT资产管理平台。资产管理、归属、追溯、盘点以及轻量的服务器状态面板。支持导出导入、LDAP、自定义字段等。基于优雅的Laravel框架和DcatAdmin开发。|1.4k|
 [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)|基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!|1.3k|
 [SegmentFault/HyperDown](https://github.com/SegmentFault/HyperDown)|一个结构清晰的，易于维护的，现代的PHP Markdown解析器|1.2k|
 [SeasX/SeasLog](https://github.com/SeasX/SeasLog)|一个高效、快速、稳定的PHP日志扩展。|1.2k|
@@ -63,3 +64,4 @@
 [72wukong/72crm-9.0-PHP](https://github.com/72wukong/72crm-9.0-PHP)|悟空CRM-基于TP5.0+vue+ElementUI的前后端分离CRM系统|630|
 [zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|594|
 [letwang/HookPHP](https://github.com/letwang/HookPHP)|HookPHP基于C扩展搭建内置AI编程的架构系统-支持微服务部署 热插拔业务组件-集成业务模型 权限模型 UI组件库 多模板 多平台 多域名 多终端 多语言-含常驻内存 前后分离 API平台 LUA |583|
+[Discuz/Discuz-Q](https://gitee.com/Discuz/Discuz-Q)|Discuz! Q是一套跨端全域的社区工具，是平行于Discuz! X系列的另一条产品线，Discuz! Q的目标是帮助流量大V、网红、知识付费、微信生态和移动互联网的创业者们，更轻易的完成用户沉淀和|179|

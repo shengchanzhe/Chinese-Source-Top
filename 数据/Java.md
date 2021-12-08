@@ -53,6 +53,7 @@
 [dataease/dataease](https://github.com/dataease/dataease)|人人可用的开源数据可视化分析工具。|3.9k|
 [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)|Java诊断工具|3.8k|
 [Javen205/IJPay](https://github.com/Javen205/IJPay)|IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨ |3.5k|
+[anji-plus/captcha](https://gitee.com/anji-plus/captcha)|行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含vue/h5/Android/IOS/flutter/uni-app/react/php/微信小程序的源码和实现|3.5k|
 [saysky/ForestBlog](https://github.com/saysky/ForestBlog)|一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统|3.4k|
 [mpusher/mpush](https://github.com/mpusher/mpush)|MPush开源实时消息推送系统|3.4k|
 [Exrick/xboot](https://github.com/Exrick/xboot)|基于Spring Boot 2.x的一站式前后端分离快速开发平台XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2开放平台 客服机器人 数据大屏 暗黑模式|3.4k|

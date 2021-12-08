@@ -2,6 +2,7 @@
 
 |Repository|Description|Stars|
 |:-|:-|:-|
+[go-gitea/gitea](https://github.com/go-gitea/gitea)Gitea 是一个开源社区驱动的轻量级代码托管解决方案，后端采用 Go 编写，采用 MIT 许可证.|27.2k|
 [kataras/iris](https://github.com/kataras/iris)|The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel   谢谢 https://github.com/kataras/iris/issues/1329  |21.5k|
 [ehang-io/nps](https://github.com/ehang-io/nps)|一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.|19.2k|
 [txthinking/brook](https://github.com/txthinking/brook)|Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.|12.7k|

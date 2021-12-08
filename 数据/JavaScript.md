@@ -36,6 +36,7 @@
 [wetools/wept](https://github.com/wetools/wept)|微信小程序多端实时运行工具|2.7k|
 [sxei/pinyinjs](https://github.com/sxei/pinyinjs)|一个实现汉字与拼音互转的小巧web工具库，演示地址：|2.3k|
 [alibaba/butterfly](https://github.com/alibaba/butterfly)|🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)|2.3k|
+[LongbowEnterprise/SliderCaptcha](https://gitee.com/LongbowEnterprise/SliderCaptcha)|滑块验证码，用户通过拖动滑块完成校验，支持PC端及移动端，新增 Blazor 版本的滑块验证码|2.1k|
 [notadd/neditor](https://github.com/notadd/neditor)|基于 ueditor的更现代化的富文本编辑器，支持HTTPS|1.9k|
 [dcloudio/hello-uniapp](https://github.com/dcloudio/hello-uniapp)|uni-app框架演示示例|1.9k|
 [gkajs/gka](https://github.com/gkajs/gka)|一款高效、高性能的帧动画生成工具|1.8k|

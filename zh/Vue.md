@@ -46,6 +46,7 @@
 [loveRandy/vue-cli3.0-vueadmin](https://github.com/loveRandy/vue-cli3.0-vueadmin)|基于vue-cli3.0+vue+elementUI+vuex+axios+权限管理的后台管理系统|1.1k|
 [newbee-ltd/newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app)|🔥 🎉Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端分离版本-前端Vue项目源码|1.1k|
 [PowerDos/Mall-Vue](https://github.com/PowerDos/Mall-Vue)|基于Vue+Vuex+iView的电子商城网站|1.1k|
+[buqiyuan/vue3-antd-admin](https://github.com/buqiyuan/vue3-antd-admin)|基于vue-cli/vite + vue3.0 + ant-design-vue2.0 + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面|1.1k|
 [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin)|Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。|1.0k|
 [RainManGO/vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin)|🎉  基于vue3 的管理端模板(Vue3 TS Vuex4  element-plus vue-i18n-next  composition-api)  vue3-admin   vue3-ts-admin|969|
 [jackchen0120/vueDataV](https://github.com/jackchen0120/vueDataV)|基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。|902|

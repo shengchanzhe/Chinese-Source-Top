@@ -6,6 +6,7 @@
 [alibaba/arthas](https://github.com/alibaba/arthas)|Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas|27.7k|
 [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot)|「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。|26.0k|
 [alibaba/druid](https://github.com/alibaba/druid)|阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池|24.8k|
+[Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava)|微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发|24.4k|
 [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)|该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、u ...|24.1k|
 [lenve/vhr](https://github.com/lenve/vhr)|微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。|22.8k|
 [alibaba/easyexcel](https://github.com/alibaba/easyexcel)|快速、简单避免OOM的java处理Excel工具|21.9k|
@@ -52,6 +53,7 @@
 [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)|提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）|3.9k|
 [dataease/dataease](https://github.com/dataease/dataease)|人人可用的开源数据可视化分析工具。|3.9k|
 [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)|Java诊断工具|3.8k|
+[anji-plus/report](https://gitee.com/anji-plus/report)|AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。|3.6k|
 [Javen205/IJPay](https://github.com/Javen205/IJPay)|IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨ |3.5k|
 [anji-plus/captcha](https://gitee.com/anji-plus/captcha)|行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含vue/h5/Android/IOS/flutter/uni-app/react/php/微信小程序的源码和实现|3.5k|
 [saysky/ForestBlog](https://github.com/saysky/ForestBlog)|一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统|3.4k|
@@ -65,6 +67,7 @@
 [o2oa/o2oa](https://github.com/o2oa/o2oa)|开源OA系统 - 码云GVP Java开源oa 企业OA办公平台 企业OA 协同办公OA 流程平台OA O2OA OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA|3.0k|
 [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport)|「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。|2.7k|
 [201206030/fiction_house](https://github.com/201206030/fiction_house)|小说精品屋是一个多平台（web、安卓app、微信小程序）、功能完善的屏幕自适应小说漫画连载系统，包含精品小说专区、轻小说专区和漫画专区。包括小说/漫画分类、小说/漫画搜索、小说/漫画排行、完本小说/漫画、小说/漫画评分、小说/漫画在线阅读、小说/漫画书架、小说/漫画阅读记录、小说下载、小说弹幕、小说/漫画自动采集/更新/纠错、小说内容自动分享到微博、邮件自动推广、链接自动推送到百度搜索引擎等功能。|2.7k|
+[xiaonuobase/snowy](https://gitee.com/xiaonuobase/snowy)|Snowy基于SpringBoot+AntDesignVue的前后分离后台权限管理系统，适配国产数据库（金仓、达梦）、主流数据库（默认Mysql），小诺一致追求简洁干净，一套代码搞定！支持国产中间件部署、麒麟操作系统、Windows、Linux部署使用，另外支持saas多租户、flowable工作流、多数据源、支付模块等，更多插件正在扩展中。|2.7k|
 [ngbdf/redis-manager](https://github.com/ngbdf/redis-manager)|Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作|2.6k|
 [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)|linux运维监控工具，支持系统信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，API接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，linux面板，探针，故障告警|2.6k|
 [zxbu/webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver)|阿里云盘 webdav协议开源实现|2.6k|
@@ -94,6 +97,8 @@
 [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey)|Survey System. 最好用的开源问卷调查系统、表单系统。|1.6k|
 [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow)|新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。|1.6k|
 [xuxueli/xxl-sso](https://github.com/xuxueli/xxl-sso)|A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）|1.6k|
+[big-hedgehog/aidex-sharp](https://gitee.com/big-hedgehog/aidex-sharp)|AiDex Sharp快速开发平台：基于若依-ruoyi-vue项目扩展，前端采用Ant-Design-VUE，代码易读易懂、界面简洁美观，不仅仅是一个后台开发框架，它是一个企业级快速开发解决方案，我们将把UI交互、快速开发能力追求到极致，适配国产数据库，国产中间件，将支持多租户、flowable工作流，移动APP，更多插件正在扩展中|1.2k|
+[ballcat-projects/ballcat](https://gitee.com/ballcat-projects/ballcat)|一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入等多种功能|238|
 
 
 ## Python
